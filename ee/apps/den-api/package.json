@@ -70,7 +70,7 @@
     "botid": "^1.5.11",
     "dotenv": "^16.4.5",
     "esbuild": "catalog:",
-    "effect": "4.0.0-beta.83",
+    "effect": "4.0.0-beta.103",
     "fast-xml-parser": "5.8.0",
     "grammy": "^1.44.0",
     "hono": "4.12.34",
